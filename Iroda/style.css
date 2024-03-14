@@ -1,0 +1,25 @@
+h1{
+    color: aliceblue;
+}
+body{
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h2{
+    color: white;
+}
+button{
+    width: 150px;
+    height: 100px;
+    background-color: orange;
+    color: white;
+    text-align: center;
+    border: none;
+}
+.but{
+    display: flex;
+    gap: 5px;
+    flex-direction: column;
+}
